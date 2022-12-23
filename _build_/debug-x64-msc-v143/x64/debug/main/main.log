@@ -1,0 +1,71 @@
+﻿  Render.cpp
+  main.cpp
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(106,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file Render.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(119,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file Render.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(131,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file Render.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(176,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file Render.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(182,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file Render.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\shader.h(60,40): warning C4101: 'e': unreferenced local variable (compiling source file Render.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\third_party\glad\include\glad.h(34): message : see previous definition of 'APIENTRY' (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(106,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(119,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(131,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(176,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\vmlib\mat44.hpp(182,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\camera.h(135,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\camera.h(136,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\camera.h(137,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\shader.h(60,40): warning C4101: 'e': unreferenced local variable (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(80,31): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(82,31): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(90,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(91,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(96,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(97,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(101,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(102,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(104,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(105,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(112,42): warning C4100: 'window': unreferenced formal parameter
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(214,37): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::_Vbase
+          ]
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(302,52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(310,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(320,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(329,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(338,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(347,6): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(486,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\xutility(238,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ] (compiling source file main.cpp)
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\memory(2022): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,double,double,double,double,double,double,double,double,double,int,int,int,int>(_Ty &,double &&,double &&,double &&,double &&,double &&,double &&,double &&,double &&,double &&,int &&,int &&,int &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=PhongMaterial
+          ] (compiling source file main.cpp)
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\memory(2741): message : see reference to function template instantiation 'std::_Ref_count_obj2<PhongMaterial>::_Ref_count_obj2<_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,int,int,int,int>(_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,int &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=double
+          ] (compiling source file main.cpp)
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\memory(2742): message : see reference to function template instantiation 'std::_Ref_count_obj2<PhongMaterial>::_Ref_count_obj2<_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,_Ty,int,int,int,int>(_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,_Ty &&,int &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=double
+          ] (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(289): message : see reference to function template instantiation 'std::shared_ptr<PhongMaterial> std::make_shared<PhongMaterial,double,double,double,double,double,double,double,double,double,int,int,int,int>(double &&,double &&,double &&,double &&,double &&,double &&,double &&,double &&,double &&,int &&,int &&,int &&,int &&)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\xutility(238,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ] (compiling source file main.cpp)
+D:\Codes\A\A9509\cw2\cw2\main\main.cpp(253): warning C4701: potentially uninitialized local variable 'format' used
+D:\Codes\A\A9509\cw2\cw2\main\shader.h(93): warning C4701: potentially uninitialized local variable 'geometry' used
+  main.vcxproj -> D:\Codes\A\A9509\cw2\cw2\bin\main-debug-x64-msc-v143.exe
